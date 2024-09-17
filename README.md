@@ -2,6 +2,8 @@
 
  3 things you can do to jumpstart your use of spatial data in your research and teaching at Stanford (plus more if we have time!). 
 
+ If you have any trouble getting into any of these resources, reach out to us at stanford-geospatial@stanford.edu 
+
 ## https://earthworks.stanford.edu 
 
 * Basic search
@@ -27,7 +29,7 @@
 
 ## Google Earth Engine
 
-* Login to [The Google Earth Engine Code Editor](https://code.earthengine.google.com/) with your SUNetID and Password. [If this gives you problems, email maples@stanford.edu from your Stanford email address and ask for access to Google Earth Engine!]
+* Login to [The Google Earth Engine Code Editor](https://code.earthengine.google.com/) with your SUNetID and Password. [If this gives you problems, email stanford-geospatial@stanford.edu from your Stanford email address and ask for access to Google Earth Engine!]
 * Check out to the SGC's [Earth Engine 101 tutorial](https://arcg.is/0DmS590)
 * Once you are successfully logged in, you can [Clone the SGC Sample Scripts to your own Scripts Repo](https://arcg.is/0DmS590).
 * For some more "Flashy" demonstrations, see our [LoveDataWeek Demo Scripts](https://code.earthengine.google.com/?accept_repo=users/maplesstanford/LoveData23SampleScripts)
@@ -40,8 +42,8 @@
 * Ordering imagery 
 * Downloading Planetscope imagery
 * Additional Planet Products:
-  * SkySat Archive Access
-  * SkySat Tasking
+  * [SkySat Archive Access](https://forms.gle/Qi5rC3PkF4gtGdyCA)
+  * [SkySat Tasking](https://forms.gle/V9XowiVgcAfxPixi9)
 
 ## https://locator.stanford.edu
 * What is geocoding?
