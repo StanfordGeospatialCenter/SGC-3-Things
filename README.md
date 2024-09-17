@@ -1,11 +1,13 @@
 # SGC-Quickstart
 
- 3 things you can do to jumpstart your use of spatial data in your research and teaching at Stanford. 
+ 3 things you can do to jumpstart your use of spatial data in your research and teaching at Stanford (plus more if we have time!). 
 
 ## https://earthworks.stanford.edu 
 
 * Basic search
-* Types of data in Earthworks
+* Using Facets
+  * Data Type
+  * 
 * Downloads
 * Code Snippets Example [https://earthworks.stanford.edu/catalog/nyu-2451-34156]
 * Cut&Paste to [Google Colab notebook](https://colab.research.google.com)
@@ -21,8 +23,24 @@
 
 ## Google Earth Engine
 
+* Login to [The Google Earth Engine Code Editor](https://code.earthengine.google.com/) with your SUNetID and Password. [If this gives you problems, email maples@stanford.edu from your Stanford email address and ask for access to Google Earth Engine!]
+* Check out to the SGC's [Earth Engine 101 tutorial](https://arcg.is/0DmS590)
+* Once you are successfully logged in, you can [Clone the SGC Sample Scripts to your own Scripts Repo](https://arcg.is/0DmS590).
+* For some more "Flashy" demonstrations, see our [LoveDataWeek Demo Scripts](https://code.earthengine.google.com/?accept_repo=users/maplesstanford/LoveData23SampleScripts)
+
 # More! (time permitting)
-## Planet.com
+## https://Planet.com 
+
+* Getting access to Stanford's Planet.com Enterprise Account
+* Searching with Planet Explorer
+* Ordering imagery 
+* Downloading Planetscope imagery
+* Additional Planet Products:
+  * SkySat Archive Access
+  * SkySat Tasking
 
 ## https://locator.stanford.edu
+* What is geocoding?
+* How to use locator
+* 
 
