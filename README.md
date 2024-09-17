@@ -21,6 +21,8 @@
 * Start a map - [Interface Overview](https://resource.esriuk.com/blog/moving-on-from-arcgis-map-viewer-classic/)
 * Importing Earthworks data as a hosted feature service on ArcGIS.com
 * Adding layers from ArcGIS.com (search: 'chemical bulk storage')
+* Overlay Analysis - Intersection
+* Spatial Join
   
 
 ## Google Earth Engine
