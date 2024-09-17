@@ -7,14 +7,15 @@
 * Basic search
 * Types of data in Earthworks
 * Downloads
-* Code Snippets [https://earthworks.stanford.edu/catalog/nyu-2451-34156]
+* Code Snippets Example [https://earthworks.stanford.edu/catalog/nyu-2451-34156]
 * Cut&Paste to [Google Colab notebook](https://colab.research.google.com)
 
 ## ArcGIS Online [https://stanford.maps.arcgis.com]
 
 * https://stanford.maps.arcgis.com SSO Login
 * Landing page resources
-* Importing Earthworks data
+* Start a map - [Interface Overview](https://resource.esriuk.com/blog/moving-on-from-arcgis-map-viewer-classic/)
+* Importing Earthworks data as a hosted feature service on ArcGIS.com
 * Adding layers from ArcGIS.com (search: 'chemical bulk storage')
 * 
 
