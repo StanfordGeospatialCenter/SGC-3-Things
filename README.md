@@ -20,11 +20,20 @@
 
 * https://stanford.maps.arcgis.com SSO Login
 * Landing page resources
-* Start a map - [Interface Overview](https://resource.esriuk.com/blog/moving-on-from-arcgis-map-viewer-classic/)
-* Importing Earthworks data as a hosted feature service on ArcGIS.com
-* Adding layers from ArcGIS.com (search: 'chemical bulk storage')
-* Overlay Analysis - Intersection
-* Spatial Join
+
+### Clowns in ArcGIS Online
+
+1. Search for "clowns" in earthworks.stanford.edu
+2. Click on the geojson Export As Link, and then right-click and copy the download link
+3. Sign into ArcGIS Online, go to Map and Add a Layer from URL
+4. Paste the geojson link, and create a Hosted Feature Layer, which should be added to your map
+5. Add another layer by searching ArcGIS Online for "congressional" and adding the "USA 118th Congressional Districts (All Territories)" to your map
+6. CHange the order of layers
+7. Analysis>Tools>Join Data>Spatial Join
+	1. 	Input: Clowns
+	2. Summary polygon layer: USA 118th Congressional Districts (All Territories)
+	3. Output: Clown_Districts
+	4. Create Clown Density Map
   
 
 ## Google Earth Engine
