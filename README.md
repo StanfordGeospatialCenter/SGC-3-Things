@@ -36,7 +36,11 @@ Things you can do to jumpstart your use of spatial data in your research and tea
 	4. Create Clown Density Map
   
 ## https://Planet.com 101
+
 https://github.com/StanfordGeospatialCenter/Planet_API_101 
+
+https://slides.com/staceymaples/planet-stanford-lovedataweek
+
 * Additional Planet Products:
   * [SkySat Archive Access](https://forms.gle/Qi5rC3PkF4gtGdyCA)
   * [SkySat Tasking](https://forms.gle/V9XowiVgcAfxPixi9)
@@ -45,6 +49,8 @@ https://github.com/StanfordGeospatialCenter/Planet_API_101
 ## Google Earth Engine 101
 
 https://github.com/StanfordGeospatialCenter/Google-Earth-Engine_101 
+
+https://slides.com/staceymaples/gee101 
 
 * Login to [The Google Earth Engine Code Editor](https://code.earthengine.google.com/) with your SUNetID and Password. [If this gives you problems, email stanford-geospatial@stanford.edu from your Stanford email address and ask for access to Google Earth Engine!]
 * Check out to the SGC's [Earth Engine 101 tutorial](https://arcg.is/0DmS590)
